@@ -2,7 +2,7 @@
 Student information for this assignment:
 
 Replace <Brandon Hsu with your name.
-On my/our honor, <FULL NAME> and <FULL NAME>, this
+On my/our honor, <Brandon Hsu> and <FULL NAME>, this
 programming assignment is my own work and I have not provided this code to
 any other student.
 
